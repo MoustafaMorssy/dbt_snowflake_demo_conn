@@ -1,0 +1,1 @@
+select * my_first_dbt_model
