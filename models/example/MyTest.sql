@@ -1,1 +1,1 @@
-select * my_first_dbt_model
+select * {{my_first_dbt_model}}
